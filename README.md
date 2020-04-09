@@ -1,2 +1,2 @@
-# DataWrangling_Udacity
+# DataWrangling
 Data wrangling for different type of files using python.
